@@ -78,7 +78,7 @@
     box-sizing: border-box;
     background:linear-gradient(to right,blue,skyblue);
     border:none;
-    position: relative;
+    position: relative
 ​}
 
   select:hover {
